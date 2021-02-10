@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.supremetaxfiler.com/index.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/wstf.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/44603.png</image:loc>
     </image:image>
@@ -24,13 +21,7 @@
       <image:loc>http://www.supremetaxfiler.com/images/logo-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/hero1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/602165136f518.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/6021649007c60.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/se.jpg</image:loc>
@@ -38,10 +29,19 @@
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/screenshot_9.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/6021a65a393be.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/602190a8867f6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/6021b5472b6db.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/about-us.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -60,9 +60,6 @@
       <image:loc>http://www.supremetaxfiler.com/images/rs=w_800,cg_true-crop-u17442.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/601c43ee8bf86-crop-u15333-crop-u18820.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/601c3f90b084d-crop-u18823.jpg</image:loc>
     </image:image>
     <image:image>
@@ -71,10 +68,13 @@
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/22-crop-u18841.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/6021ba1b46c32-crop-u18820.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/services.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/contact.html</loc>
-    <lastmod>2021-02-08</lastmod>
+    <lastmod>2021-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
