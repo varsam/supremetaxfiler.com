@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.supremetaxfiler.com/index.html</loc>
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -24,12 +24,6 @@
       <image:loc>http://www.supremetaxfiler.com/images/602165136f518.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/se.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/screenshot_9.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/6021a65a393be.jpg</image:loc>
     </image:image>
     <image:image>
@@ -38,10 +32,58 @@
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/6021b5472b6db.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/tax.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/contactserv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/cal.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/abook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/finance.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/e-file.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/taxfile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/add%20pages.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/plan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/af.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/searchstat.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/man.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/taxstat.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/f%20pro.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/file%20tax.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/tax%20represent.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/about-us.html</loc>
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,7 +116,7 @@
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/services.html</loc>
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -93,12 +135,51 @@
       <image:loc>http://www.supremetaxfiler.com/images/601c4658a66ec-crop-u19083.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.supremetaxfiler.com/images/123-crop-u19070.jpg</image:loc>
+      <image:loc>http://www.supremetaxfiler.com/images/tax.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/contactserv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/cal.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/abook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/finance.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/e-file.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/taxfile.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/add%20pages.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/plan.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/af.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/man.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/taxstat.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/manex.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/manc.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.supremetaxfiler.com/contact.html</loc>
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -115,6 +196,15 @@
     </image:image>
     <image:image>
       <image:loc>http://www.supremetaxfiler.com/images/logo-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/location-us.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/ph-us.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.supremetaxfiler.com/images/mail-us.png</image:loc>
     </image:image>
   </url>
 </urlset>

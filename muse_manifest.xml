@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.supremetaxfiler.com" resolutions="1x" timestamp="1612856732981">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.supremetaxfiler.com" resolutions="1x" timestamp="1613913724709">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="488339711" ref="services:contact:index:about-us"/>
-    <file name="services.css" crc="4259889310" ref="services"/>
-    <file name="contact.css" crc="3866580569" ref="contact"/>
-    <file name="index.css" crc="3773009035" ref="index"/>
-    <file name="about-us.css" crc="4148605905" ref="about-us"/>
+    <file name="master_a-master.css" crc="464036942" ref="services:contact:index:about-us"/>
+    <file name="services.css" crc="327921496" ref="services"/>
+    <file name="contact.css" crc="3885777583" ref="contact"/>
+    <file name="index.css" crc="4191041445" ref="index"/>
+    <file name="about-us.css" crc="106264351" ref="about-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:services:contact"/>
@@ -24,7 +24,7 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="form-u18694.php" crc="4241292493" ref="index"/>
+    <file name="form-u28205.php" crc="3818126531" ref="index"/>
   </folder>
   <folder name="images">
     <file name="44603.png" crc="3873294975" seo="true" ref="index:about-us:services:contact">
@@ -70,12 +70,6 @@
     <file name="u17644-m.png" crc="3954571567" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u15185-6.png" crc="326507844" ref="index"/>
-    <file name="se.jpg" crc="3798316051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="screenshot_9.jpg" crc="3914858993" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="rs=w_800,cg_true-crop-u17442.jpg" crc="4065612131" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
@@ -88,10 +82,7 @@
     <file name="22-crop-u18841.jpg" crc="3925232278" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
-    <file name="601c4658a66ec-crop-u19083.jpg" crc="250865133" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="123-crop-u19070.jpg" crc="4091723127" seo="true" ref="services">
+    <file name="601c4658a66ec-crop-u19083.jpg" crc="145150416" seo="true" ref="services">
       <caption webpage="services" alt=""/>
     </file>
     <file name="6021a65a393be.jpg" crc="3769905970" seo="true" ref="index">
@@ -109,9 +100,88 @@
     <file name="6021ba1b46c32-crop-u18820.jpg" crc="4075972728" seo="true" ref="about-us">
       <caption webpage="about-us" alt=""/>
     </file>
+    <file name="tax.png" crc="58654185" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="contactserv.png" crc="23176740" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="cal.png" crc="507922284" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="abook.png" crc="3759115141" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="finance.png" crc="4131987158" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="e-file.png" crc="485736252" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="taxfile.png" crc="4172101022" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="add pages.png" crc="253720163" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="plan.png" crc="118243947" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="af.png" crc="4178388312" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="searchstat.png" crc="331463681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man.png" crc="3942141012" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="taxstat.png" crc="4003773480" seo="true" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u24301-6.png" crc="343228360" ref="index"/>
+    <file name="f pro.png" crc="3825863992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="file tax.png" crc="3791001937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tax represent.png" crc="488542935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="manex.png" crc="4001630909" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="manc.png" crc="453188592" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="location-us.png" crc="245007585" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ph-us.png" crc="4178735296" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mail-us.png" crc="197102319" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="96143399" seo="true" mt="1612856653086" redirect="true"/>
-  <file name="about-us.html" crc="3972150498" seo="true" mt="1612856502988" redirect="true"/>
-  <file name="services.html" crc="489284075" seo="true" mt="1612855851855" redirect="true"/>
-  <file name="contact.html" crc="314576641" seo="true" mt="1612855923961" redirect="true"/>
+  <file name="index.html" crc="3993959082" seo="true" mt="1613913118065" redirect="true"/>
+  <file name="about-us.html" crc="12495676" seo="true" mt="1613913237805" redirect="true"/>
+  <file name="services.html" crc="284066170" seo="true" mt="1613913295801" redirect="true"/>
+  <file name="contact.html" crc="174019770" seo="true" mt="1613913161802" redirect="true"/>
 </manifest>
